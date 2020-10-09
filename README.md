@@ -1,16 +1,19 @@
-## Hi, I'm Matias, a (self-proclaimed) PHP Jedi Master
+[![Matias Navarro-Carter header image](/assets/banner.png)](https://mnavarro.dev)
 
-<!--
-**mnavarrocarter/mnavarrocarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Matias, a chilean software developer specialized in server-side web applications, automation and infrastructure.
 
-Here are some ideas to get you started:
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnavarrocarter&hide=html&title_color=74c2e9&text_color=fff&icon_color=2bbc8a&bg_color=282a36)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats Github](https://github-readme-stats.vercel.app/api?username=mnavarrocarter&show_icons=true&line_height=27&count_private=true&title_color=74c2e9&text_color=fff&icon_color=74c2e9&bg_color=282a36)
+
+I'm currently based in the UK (Coleraine, Northern Ireland) where I work as a PHP Developer for [Spatialest][spatialest].
+
+I also love writing open source libraries. These are some of the projects that consume most of my free time:
+
+![Chilean Rut](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=chilean-rut&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
+
+![Chilean Rut](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=historian&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
+
+![Transbank SDK](https://github-readme-stats.vercel.app/api/pin?username=better-transbank&repo=sdk&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
+
+[spatialest]: https://spatialest.com
