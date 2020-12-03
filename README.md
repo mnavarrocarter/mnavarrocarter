@@ -9,9 +9,9 @@ I'm currently based in the UK (Coleraine, Northern Ireland) where I work as a PH
 
 I also love writing open source libraries. These are some of the projects that consume most of my free time:
 
-![Chilean Rut](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=chilean-rut&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
-![Transbank SDK](https://github-readme-stats.vercel.app/api/pin?username=better-transbank&repo=sdk&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
+![Chilean Rut](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=chilean-rut&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
+![Transbank SDK](https://github-readme-stats.vercel.app/api/pin?username=better-transbank&repo=sdk&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
 
-![Historian](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=historian&title_color=2bbc8a&icon_color=2bbc8a&text_color=fff&bg_color=282a36)
+![Historian](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=historian&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
 
 [spatialest]: https://spatialest.com
