@@ -10,7 +10,7 @@ I'm currently based in the UK (Coleraine, Northern Ireland) where I work as a Se
 I also love writing open source libraries. These are some of the projects that I spend mantaining:
 
 ![SQLX](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=sqlx&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
-![PHP Fetch](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=sqlx&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
+![PHP Fetch](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=php-fetch&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
 ![Castor Context](https://github-readme-stats.vercel.app/api/pin?username=castor-labs&repo=context&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
 ![Fernet](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=fernet&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
 ![Json Api](https://github-readme-stats.vercel.app/api/pin?username=mnavarrocarter&repo=jsonapi&title_color=74c2e9&icon_color=74c2e9&text_color=fff&bg_color=282a36)
